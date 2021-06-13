@@ -1,0 +1,33 @@
+{
+  "name": "@meteora-digital/object-builder",
+  "version": "0.0.0",
+  "description": "A package to dynamically create JavaScript objects with ease.",
+  "main": "dist/js/object-builder.js",
+  "scripts": {
+    "test": "npm i && gulp"
+  },
+  "keywords": [
+    "JavaScript",
+    "es6",
+    "object",
+    "frontend",
+    "builder"
+  ],
+  "author": "Emmanuel Davies",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-plumber": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meteora-digital/object-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meteora-digital/object-builder/issues"
+  },
+  "homepage": "https://github.com/meteora-digital/object-builder#readme"
+}
